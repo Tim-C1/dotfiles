@@ -53,7 +53,7 @@ local db = require("dashboard")
     theme = 'hyper',
     preview = {
       command = "cat | cat",       -- preview command
-      file_path = "~/Pictures/ascii.txt",     -- preview file path
+      file_path = "/home/ctr/.config/nvim/resources/pics/ascii.txt",     -- preview file path
       file_height = 14,   -- preview file height
       file_width = 50,
     },
